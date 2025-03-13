@@ -16,6 +16,6 @@ int main() {
 			//break;use or not
 		}
 	}
-	cout << "not found ";
+	cout << "it not found ";
 	//return 1; use or not
 }
